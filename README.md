@@ -11,4 +11,4 @@
 * Narrowed down the city data dataframe to an ideal city data frame filtered by ideal weather conditions.
 * Created a copy of the ideal city data dataframe named hotel dataframe that includes an extra column to store the name of the nearest hotel within a 10,000m radius.  
 * Using Geoapify API, found the first hotel located within 10,000m of cities listed in the hotel dataframe, based on longitude and latitude.  
-* Craeted a map plot of all cities within the hotel data frame with marker sizes sorted by hunmidity, and that additionally hovers hotel name and country over each marker.
+* Craeted a map plot of all cities within the hotel data frame with marker sizes sorted by humidity, and that additionally hovers hotel name and country over each marker.
